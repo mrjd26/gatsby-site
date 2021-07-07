@@ -1,3 +1,21 @@
+<P> My goal is to make a little blog to show potential employers <em>and</em> to work on over the next 5+ years. It will have little articles about things I'm interested in. It might have some tips and tricks for people about the things I've learned over the years, e.g. these travel tips in these destinations with kids, since we travel a lot.</p>
+
+![blog](strapi-fail.png)
+
+<p>I'm interested in driving traffic, productizing the site, since I've never done that before</p>
+
+<p> Last week I explored a CMS called Strapi. It's got some Node, Gatsby underpinnings, among other things.  I would have used it, but it was a little hard to hook up to Google Cloud, which I'm using to host some of my projects, just because I've used it before at work.  I had a lot of code breaks just on getting it running locally.  I got into a github chat of Strapi devs and asked a few questions. I guess ultimately it offered some admin functionality that I didn't really need, especially at the cost of all the messy code breaks and lots of people contributing to the open source code.</p>
+
+<p> I figured this week I would explore Gatsby to see if the framework would be beneficial to me </p>
+
+<p> I've been learning React, which Gatsby utilizes, for a few weeks now, honestly, admittedly just because I see employers post jobs and learn-to-code YouTubers have recommended for obtaining coder jobs </p>
+
+<p>My intention is to see if Gatsby, GraphQl, React, Webpack, etc. - all parts of the framework, are even necessary for what I'm building.  So far, it's different than Strapi, in that I got it running locally in a few minutes, after the download.  I'll have to see if I can put it onto Google Cloud very easily.  </p>
+
+<p> I've not encountered having a framework that builds locally enter into a cloud build.  It seems like it should be easy, but it was the final straw for me with Strapi on Google Cloud, where I just said, F this, too much troubleshooting.</p>
+
+
+
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
